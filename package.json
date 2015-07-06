@@ -1,0 +1,23 @@
+{
+  "name": "mocha-minimalist-reporter",
+  "version": "1.0.0",
+  "description": "A minimalist reporter for mocha",
+  "keywords": ["mocha", "reporter", "min", "minimal", "minimalist", "terse"],
+  "author": "Josh Egan <josh.egan145@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josh-egan/mocha-minimalist-reporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josh-egan/mocha-minimalist-reporter/issues"
+  },
+  "homepage": "https://github.com/josh-egan/mocha-minimalist-reporter",
+  "main": "index.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/josh-egan/mocha-minimalist-reporter/master/LICENSE"
+    }
+  ]
+}

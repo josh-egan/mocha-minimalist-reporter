@@ -1,6 +1,6 @@
 {
   "name": "mocha-minimalist-reporter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A minimalist reporter for mocha",
   "keywords": ["mocha", "reporter", "min", "minimal", "minimalist", "terse"],
   "author": "Josh Egan <josh.egan145@gmail.com>",
